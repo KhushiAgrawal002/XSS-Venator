@@ -8,7 +8,7 @@ Installing Selenium
 
 sudo apt update
 
-pip3 install selenium
+pip3 install selenium (Must)
 
 Installing Chrome Browser for Linux (Skip this if you already have Chrome browser on your Linux)
 
